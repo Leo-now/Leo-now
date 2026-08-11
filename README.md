@@ -81,10 +81,16 @@
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20number%20of%20studies%20have%20shown%20testing%20not%20very%20effective%20at%20finding%20bugs.&author=Daniel%20T.%20Barry" />
 </p>
 
----
+<p align="center">
+  <i>
+    "You'll never accomplish anything unless you make it something you have to do.<br/>
+    When you're determined enough, even obstacles will get out of your way."
+  </i>
+</p>
+
 
 <!-- github graph -->
 <p align="center">
