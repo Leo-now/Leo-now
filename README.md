@@ -67,14 +67,13 @@
     </a>
   </div>
 
-  <div>
+ <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="Le Trung Kien's Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Leo-now&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192px"/>
     </a>
     <a>
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
     </a>
-  </div>
 </div>
 
 ## ✍️ Dev Quote of the Day
