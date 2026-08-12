@@ -63,7 +63,7 @@
 <div align="center">
   <div>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thien Hao's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=thienhao05&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leo-now's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Leo-now&theme=monokai-metallian&hide_border=true"/>
     </a>
   </div>
 
