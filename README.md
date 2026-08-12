@@ -60,11 +60,10 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📊 GitHub Stats:
-
 <div align="center">
   <div>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Le Trung Kien's streak" src="https://streak-stats.demolab.com/?user=Leo-now&theme=dark&hide_border=false"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thien Hao's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=thienhao05&theme=monokai-metallian&hide_border=true"/>
     </a>
   </div>
 
